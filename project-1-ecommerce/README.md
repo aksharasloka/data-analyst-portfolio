@@ -23,3 +23,13 @@ To address the challenges identified, we recommend implementing strategic initia
 - Late delivery scores 2.27 stars vs 4.29 for on-time orders
 - Amazonas (33.3%) and Maranhão (19.4%) have worst delivery rates
 - Top complaint: Late delivery (25.6% of negative reviews)
+
+## Dashboard
+[Olist Revenue Intelligence Dashboard](https://public.tableau.com/app/profile/akshara.darapaneni/viz/Olist_Revenue_Intelligence_Dashboard/Dashboard1)
+
+**Features:**
+- Monthly revenue trend with dual axis (MoM growth), average line, and trend line
+- Top 10 categories by revenue
+- Late delivery risk map by Brazilian state (calculated risk tier)
+- KPI banner: R$13.6M revenue, 91.9% leakage, 8.1% late orders, 94% one-time buyers
+- Viz in Tooltip on category chart
